@@ -1,4 +1,3 @@
-#
 Summary:	Front End for veejay a video mixing/editing Instrument
 Summary(pl):	Graficzna nak³adka dla veejay do edycji i miksowania filmów
 Name:		gveejay
@@ -15,10 +14,10 @@ BuildRequires:	mjpegtools-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Front End for veejay a video mixing/editing Instrument
+Front End for veejay a video mixing/editing Instrument.
 
 %description -l pl
-Graficzna nak³adka dla veejay do edycji i miksowania filmów
+Graficzna nak³adka dla veejay do edycji i miksowania filmów.
 
 %prep
 %setup -q

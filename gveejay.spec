@@ -1,5 +1,5 @@
 Summary:	Front End for veejay a video mixing/editing Instrument
-Summary(pl):	Graficzna nak³adka dla veejay do edycji i miksowania filmów
+Summary(pl.UTF-8):   Graficzna nakÅ‚adka dla veejay do edycji i miksowania filmÃ³w
 Name:		gveejay
 Version:	0.4.7
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Front End for veejay a video mixing/editing Instrument.
 
-%description -l pl
-Graficzna nak³adka dla veejay do edycji i miksowania filmów.
+%description -l pl.UTF-8
+Graficzna nakÅ‚adka dla veejay do edycji i miksowania filmÃ³w.
 
 %prep
 %setup -q

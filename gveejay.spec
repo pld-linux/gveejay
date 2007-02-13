@@ -1,5 +1,5 @@
 Summary:	Front End for veejay a video mixing/editing Instrument
-Summary(pl.UTF-8):   Graficzna nakładka dla veejay do edycji i miksowania filmów
+Summary(pl.UTF-8):	Graficzna nakładka dla veejay do edycji i miksowania filmów
 Name:		gveejay
 Version:	0.4.7
 Release:	1
